@@ -1,0 +1,28 @@
+.Counter{
+    width: 180px;
+    height: auto;
+    margin: auto auto;
+    border: 5px solid rgb(3, 38, 49);
+    padding: 40px;
+    color: black;
+    display: inline-block;
+    align-content: center;
+}
+
+.count{
+    font-size: 100px;
+    text-align: center;
+}
+
+.btn {
+    background-color: rgb(37, 57, 87);
+    border-radius: 15px;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: auto auto;
+    display: inline-block;
+    margin-right:5px;
+    
+  }
